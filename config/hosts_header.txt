@@ -1,0 +1,22 @@
+# =============================================================================
+#  Title: All-in-one Block Lists
+# =============================================================================
+#  This hosts file is a blocklist for DNS Sinkhole applications such as Pi-hole
+#  and Blocky. It aims to reduce the load of update requests to GitHub by
+#  combining several hosts file into one.
+#
+#  - Latest version of this file:
+#    https://raw.githubusercontent.com/KEINOS/BlockList/master/hosts_all-in-one.txt
+#
+#  **IMPORTANT**
+#
+#  This synthetic host file was researched by volunteers in their precious free
+#  time to improve the Internet. Plase show them your respect by contributing,
+#  giving a star, making a donation,etc. Anything that encourages them.
+#
+#  In addition, each combined hosts file has a different license. Care should be
+#  taken when reusing this file.
+#
+# - Licenses and the list of combined hosts file:
+#   https://github.com/KEINOS/BlockList/
+# =============================================================================

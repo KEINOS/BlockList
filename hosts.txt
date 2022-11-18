@@ -1,0 +1,96 @@
+# =============================================================================
+#  Block List KEINOS
+# =============================================================================
+#  Content added to this list has been manually verified, and is updated
+#  irregularly by the contributors.
+#
+#  Home URL: https://github.com/KEINOS/BlockList
+#  Issue: https://github.com/KEINOS/BlockList/issues
+#  License: MIT
+
+0.0.0.0 conciergecongratulation.com
+0.0.0.0 alexa.conciergecongratulation.com
+0.0.0.0 bih.jp
+0.0.0.0 t.ma.epark.jp
+0.0.0.0 thrillingalias.com
+0.0.0.0 crowupside.com
+0.0.0.0 ank.5nr7us4.jp
+0.0.0.0 loudspeakeracronym.com
+0.0.0.0 radishwince.com
+0.0.0.0 twentiethwarlike.com
+0.0.0.0 hastenvicar.com
+0.0.0.0 gyogyo.sub.net
+0.0.0.0 hbxggkehl.com
+0.0.0.0 reverse-nurture.net
+0.0.0.0 way-fact.biz
+0.0.0.0 junecalendar2018.com
+0.0.0.0 amazoon-jp.co
+0.0.0.0 mazon.co.jp
+0.0.0.0 lapre-inc.com
+0.0.0.0 tpjjrjx.cn
+0.0.0.0 artsandautomation.com
+0.0.0.0 lil.ge
+0.0.0.0 ameratees.com
+0.0.0.0 postj1bpban.club
+0.0.0.0 lqyrazb.cn
+0.0.0.0 netaotion-aplus.com
+0.0.0.0 4music-clover.com
+0.0.0.0 102030seminar.com
+0.0.0.0 watford-city.k12.nd.us
+0.0.0.0 fishingsnapper.com
+0.0.0.0 yvvmnlk.cn
+0.0.0.0 wrmjjh.top
+0.0.0.0 psicomedodontoclinical.com.br
+0.0.0.0 cosilypet.com
+0.0.0.0 t-t.ink
+0.0.0.0 amsorrens.icu
+0.0.0.0 sm.amsorrens.icu
+0.0.0.0 mytfcloud.com
+0.0.0.0 tuantai.gmazi.com
+0.0.0.0 soerlbktg.shop
+0.0.0.0 s.amseuaert.icu
+0.0.0.0 fishingsnapper.com
+0.0.0.0 koeriansza.lol
+0.0.0.0 evitool.com
+0.0.0.0 japriaygmd.shop
+0.0.0.0 www.japriaygmd.shop
+0.0.0.0 s.amsenzens.icu
+0.0.0.0 kakunin.sai1socjp.club
+0.0.0.0 iaogurmsot.shop
+0.0.0.0 www.iaogurmsot.shop
+0.0.0.0 daikanyamasurry.com
+0.0.0.0 www.daikanyamasurry.com
+0.0.0.0 mevrmall.com
+0.0.0.0 psicomedodontoclinical.com.br
+0.0.0.0 www.psicomedodontoclinical.com.br
+0.0.0.0 haoeugkat.shop
+0.0.0.0 www.haoeugkat.shop
+0.0.0.0 www2.epsosccard.co.jp.dszzffz.top
+0.0.0.0 dszzffz.top
+0.0.0.0 www.koeriansza.lol
+0.0.0.0 www.muy-caj1cad1.live
+0.0.0.0 muy-caj1cad1.live
+0.0.0.0 www.myjcbevsivsvnvcsows.oeasgrsngsm.sochye.za.com
+0.0.0.0 sochye.za.com
+0.0.0.0 www.yoakumginandfeed.com
+0.0.0.0 yoakumginandfeed.com
+0.0.0.0 www.takamaprimercenter.one
+0.0.0.0 takamaprimercenter.one
+0.0.0.0 atalhoscontabeis.com
+0.0.0.0 infojanetjoshua.com
+0.0.0.0 useguros.com.br
+0.0.0.0 usps-customer-service.useguros.com.br
+0.0.0.0 gmo-aozora.scdw3hme2cyc5shw6z.tokyo
+0.0.0.0 scdw3hme2cyc5shw6z.tokyo
+0.0.0.0 www.ezklean.icu
+0.0.0.0 fc6207.cuenote.jp
+0.0.0.0 www2.amazon.co.jp.eitu39dkhir.asios16.shop
+
+# =============================================================================
+#  Merged collection of hosts
+# =============================================================================
+#  The combined hosts file below has a different license. Care should be taken
+#  when reusing this file.
+#
+# - Licenses and the list of combined hosts file:
+#   https://github.com/KEINOS/BlockList/

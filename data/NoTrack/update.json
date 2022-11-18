@@ -1,0 +1,8 @@
+{
+    "name": "NoTrack",
+    "description": "Curated blocklist of Tracking, Advertising, and Malware domains.",
+    "homeurl": "https://gitlab.com/quidsup/notrack-blocklists/",
+    "issues": "https://gitlab.com/quidsup/notrack-blocklists/-/issues",
+    "url": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
+    "license": "GNU GPL v3"
+}

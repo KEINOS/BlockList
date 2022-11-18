@@ -1,0 +1,8 @@
+{
+    "name": "ethanr DNS Blacklists",
+    "description": "DNS servers for cached entries of malware related domains by Ben Jackson and Mayhemic Labs",
+    "homeurl": "https://bitbucket.org/ethanr/dns-blacklists/",
+    "issues": "https://bitbucket.org/ethanr/dns-blacklists/issues?status=new&status=open",
+    "url": "https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
+    "license": "[The BSD 3-Clause License](https://bitbucket.org/ethanr/dns-blacklists/src/0e040888daf730104590bc5e976923e259c3ad67/malwarednsscrape-0.3.1.pl?at=master)"
+}

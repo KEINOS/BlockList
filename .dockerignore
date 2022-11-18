@@ -1,0 +1,2 @@
+# Ignore cache dir to be sent as context during build
+./conf/cache

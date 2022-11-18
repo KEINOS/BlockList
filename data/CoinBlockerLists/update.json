@@ -1,0 +1,8 @@
+{
+    "name": "[CoinBlockerLists](https://zerodot1.gitlab.io/CoinBlockerListsWeb/)",
+    "description": "List of browser mining domains against Cryptojacking. Maintained by [ZeroDot1](https://gitlab.com/ZeroDot1).",
+    "homeurl": "https://gitlab.com/ZeroDot1/CoinBlockerLists",
+    "issues": "https://gitlab.com/ZeroDot1/CoinBlockerLists/issues/new",
+    "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
+    "license": "[AGPL](https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/LICENSE)"
+}

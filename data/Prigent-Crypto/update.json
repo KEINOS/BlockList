@@ -1,0 +1,8 @@
+{
+    "name": "Prigent-Crypto",
+    "description": "parsed and mirrored by https://firebog.net from https://dsi.ut-capitole.fr/blacklists/download/cryptojacking.tar.gz",
+    "homeurl": "https://firebog.net/",
+    "issues": "https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi",
+    "url": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
+    "license": "[CC BY-SA 4.0](https://dsi.ut-capitole.fr/blacklists/download/LICENSE.pdf)"
+}

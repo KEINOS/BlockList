@@ -1,0 +1,8 @@
+{
+    "name": "DigitalSide Threat-Intel",
+    "description": "Set of Open Source Cyber Threat Intelligence information, mostly based on malware analysis and compromised URLs, IPs and domains. (by OSINT.digitalside.it)",
+    "homeurl": "https://github.com/davidonzo/Threat-Intel",
+    "issues": "https://github.com/davidonzo/Threat-Intel/issues",
+    "url": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+    "license": "MIT"
+}

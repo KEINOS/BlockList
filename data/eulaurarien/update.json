@@ -1,0 +1,8 @@
+{
+    "name": "eulaurarien",
+    "description": "Geoffrey Frogeye's block list of first-party trackers",
+    "homeurl": "https://git.frogeye.fr/geoffrey/eulaurarien",
+    "issues": "https://git.frogeye.fr/geoffrey/eulaurarien/issues",
+    "url": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt",
+    "license": "MIT"
+}

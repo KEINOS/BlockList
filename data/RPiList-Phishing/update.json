@@ -1,0 +1,8 @@
+{
+    "name": "RPiList-Phishing",
+    "description": "parsed and mirrored by https://firebog.net from https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe",
+    "homeurl": "https://github.com/RPiList/specials",
+    "issues": "https://github.com/RPiList/specials/issues",
+    "url": "https://v.firebog.net/hosts/RPiList-Phishing.txt",
+    "license": "CC BY-NC 4.0 International"
+}

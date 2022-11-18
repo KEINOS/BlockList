@@ -1,0 +1,8 @@
+{
+    "name": "Prigent-Ads",
+    "description": "parsed and mirrored by https://firebog.net from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz",
+    "homeurl": "https://firebog.net/",
+    "issues": "https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi",
+    "url": "https://v.firebog.net/hosts/Prigent-Ads.txt",
+    "license": "[CC BY-SA 4.0](https://dsi.ut-capitole.fr/blacklists/download/LICENSE.pdf)"
+}

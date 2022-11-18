@@ -1,0 +1,8 @@
+{
+    "name": "Easyprivacy",
+    "description": "parsed and mirrored by [firebog.net](https://firebog.net) from https://easylist-downloads.adblockplus.org/easyprivacy.txt",
+    "homeurl": "https://firebog.net/",
+    "issues": "https://github.com/easylist/easylist#list-issues",
+    "url": "https://v.firebog.net/hosts/Easyprivacy.txt",
+    "license": "[GNU GPL v3 and CC BY-SA 3.0](https://easylist.to/pages/licence.html)"
+}

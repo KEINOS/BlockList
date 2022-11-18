@@ -1,0 +1,8 @@
+{
+    "name": "Phishing Army",
+    "description": "The Blocklist to filter Phishing ",
+    "homeurl": "https://phishing.army ",
+    "issues": "https://www.phishtank.com/",
+    "url": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
+    "license": "CC BY-NC 4.0 International"
+}

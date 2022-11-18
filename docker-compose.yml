@@ -1,0 +1,52 @@
+version: "3.9"
+services:
+  # Update hosts file using StevenBlack's hosts docker image.
+  # - Usage: docker compose run --rm update
+  # - See: ./config/entrypoint.sh
+  # - Note: This will take around 20-30 minutes to finish.
+  update:
+    container_name: update
+    build: https://github.com/StevenBlack/hosts.git
+    volumes:
+      # Custom entrypoint to update hosts file
+      - ./config/entrypoint.sh:/hosts/entrypoint.sh
+      # Template for README.md
+      - ./config/readme_template.md:/hosts/readme_template.md
+      # Hosts header file
+      - ./config/hosts_header.txt:/hosts/hosts_header.txt
+      # readmeData.json
+      - ./config/readmeData_template.json:/hosts/readmeData_template.json
+      # Our update.json
+      - ./update.json:/hosts/keinos_update.json
+      # README.md
+      - ./README.md:/hosts/readme.md
+      # Our hosts file
+      - ./hosts.txt:/hosts/myhosts
+      # Our Whitelist
+      - ./whitelist.txt:/hosts/whitelist
+      # Additional host files
+      - ./data/adfilt:/hosts/data/adfilt
+      - ./data/AdguardDNS:/hosts/data/AddgaurdDNS
+      - ./data/anudeepND:/hosts/data/anudeepND
+      - ./data/AssoEchap:/hosts/data/AssoEchap
+      - ./data/CoinBlockerLists:/hosts/data/CoinBlockerLists
+      - ./data/disconnect.me/simple_ad:/hosts/data/simple_ad
+      - ./data/disconnect.me/simple_malvertising:/hosts/data/simple_malvertising
+      - ./data/Easylist:/hosts/data/Easylist
+      - ./data/Easyprivacy:/hosts/data/Easyprivacy
+      - ./data/ethanr:/hosts/data/ethanr
+      - ./data/eulaurarien:/hosts/data/eulaurarien
+      - ./data/LanikSJ_Admiral:/hosts/data/LanikSJ_Admiral
+      - ./data/NoTrack:/hosts/data/NoTrack
+      - ./data/osint.digitalside.it:/hosts/data/osint.digitalside.it
+      - ./data/Phishing_Army:/hosts/data/Phishing_Army
+      - ./data/Prigent-Ads:/hosts/data/Prigent-Ads
+      - ./data/Prigent-Crypto:/hosts/data/Prigent-Crypto
+      - ./data/RPiList-Malware:/hosts/data/RPiList-Malware
+      - ./data/RPiList-Phishing:/hosts/data/RPiList-Phishing
+      - ./data/Spam404:/hosts/data/Spam404
+      - ./data/w3kbl:/hosts/data/w3kbl
+      - ./data/WindowsSpyBlocker:/hosts/data/WindowsSpyBlocker
+      # [Output]: Generated all-in-one hosts file
+      - ./hosts_all-in-one.txt:/hosts/hosts_all-in-one.txt
+    entrypoint: [ /hosts/entrypoint.sh ]

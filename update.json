@@ -1,0 +1,8 @@
+{
+    "name": "Block List KEINOS",
+    "description": "List of hosts from Japan that were included in spam mailings.",
+    "homeurl": "https://github.com/KEINOS/BlockList",
+    "issues": "https://github.com/KEINOS/BlockList/issues",
+    "url": "https://raw.githubusercontent.com/KEINOS/BlockList/master/hosts.txt",
+    "license": "[MIT](https://github.com/KEINOS/BlockList/blob/master/LICENSE)"
+}

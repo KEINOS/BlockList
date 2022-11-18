@@ -1,0 +1,8 @@
+{
+    "name": "anudeepND",
+    "description": "Trackers and advertisements curated and mantained by [Anudeep ND](https://github.com/anudeepND)",
+    "homeurl": "https://github.com/anudeepND/blacklist",
+    "issues": "https://github.com/anudeepND/blacklist/issues",
+    "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
+    "license": "MIT"
+}

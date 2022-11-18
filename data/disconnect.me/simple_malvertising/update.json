@@ -1,0 +1,8 @@
+{
+    "name": "disconnect.me",
+    "description": "Simple malicious list by disconnect.me brought to you by firebog.net",
+    "homeurl": "https://firebog.net/",
+    "issues": "support [at] disconnect.me",
+    "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
+    "license": "GPLv3"
+}

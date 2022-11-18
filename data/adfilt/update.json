@@ -1,0 +1,8 @@
+{
+    "name": "DandelionSprout adfilt",
+    "description": "DandelionSprout's Anti-Malware List. This list must not used with Manifest v3 services. Such as browser extensions.",
+    "homeurl": "https://github.com/DandelionSprout/adfilt",
+    "issues": "https://github.com/DandelionSprout/adfilt/issues",
+    "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
+    "license": "[Dandelicence 1.4](https://github.com/DandelionSprout/Dandelicence/blob/master/DandelicenceV1.4.md)"
+}

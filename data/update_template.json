@@ -1,0 +1,8 @@
+{
+    "name": "Listname",
+    "description": "description of the list",
+    "homeurl": "home url",
+    "issues": "url where to issue",
+    "url": "target URL of the hosts file",
+    "license": "Licence"
+}

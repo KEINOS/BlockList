@@ -1,0 +1,8 @@
+{
+    "name": "Spam404",
+    "description": "blacklist by spam404.com",
+    "homeurl": "https://github.com/Spam404/lists",
+    "issues": "https://github.com/Spam404/lists/issues",
+    "url": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
+    "license": "2021 Spam404, CC BY-SA 4.0"
+}

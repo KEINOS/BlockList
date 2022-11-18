@@ -1,0 +1,8 @@
+{
+    "name": "AssoEchap",
+    "description": "List of network indicators of stalkerware and watchware detected by the [IoC](https://en.wikipedia.org/wiki/Indicator_of_compromise). Maintained by [Julien Voisin](https://dustri.org/), and [Tek](https://github.com/Te-k) for the non-profit organisation [Echap](https://echap.eu.org/).",
+    "homeurl": "https://github.com/AssoEchap/stalkerware-indicators",
+    "issues": "https://github.com/AssoEchap/stalkerware-indicators/issues",
+    "url": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full",
+    "license": "[CC-BY-SA](https://github.com/AssoEchap/stalkerware-indicators#license)"
+}

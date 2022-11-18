@@ -1,0 +1,8 @@
+{
+    "name": "Adguard-dns",
+    "description": "Advertising lists of AdGuard DNS Filter parsed and mirrored by [firebog.net](https://firebog.net) from [github.com/AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension/tree/master/Extension/filters/chromium).",
+    "homeurl": "https://firebog.net/",
+    "issues": "https://github.com/WaLLy3K/wally3k.github.io/issues",
+    "url": "https://v.firebog.net/hosts/AdguardDNS.txt",
+    "license": "GPL-3.0 license"
+}
