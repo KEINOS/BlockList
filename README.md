@@ -15,7 +15,7 @@
 
 2. [hosts_all-in-one.txt](https://raw.githubusercontent.com/KEINOS/BlockList/main/hosts_all-in-one.txt)
     - License: [Multilicense](https://github.com/KEINOS/BlockList/#Licenses-of-unified-hosts-file)
-    - ![817,000+](https://img.shields.io/badge/Registered%20Hosts-817%2C000%2B-blue "Over 817,000 hosts")
+    - ![950,000+](https://img.shields.io/badge/Registered%20Hosts-950%2C000%2B-blue "Over 919,650 hosts")
       - This is a file that combines **our `hosts` file with other curated `hosts` files**. It aims to reduce the load of update requests to GitHub by combining several blocklists into one.
       - Este es un archivo que combina **nuestro archivo de `hosts` con otros archivos de `hosts` curados**. Su objetivo es reducir la carga de solicitudes de actualización a GitHub combinando varias listas de bloqueo en una sola.
       - これは、**私たちの `hosts` ファイルと他の[キュレーション](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC#%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC)された `hosts` ファイルを結合したファイル**です。複数のブロックリストをひとつにまとめることで、GitHub への更新リクエストの負荷を軽減することを目的としています。
