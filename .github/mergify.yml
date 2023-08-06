@@ -1,0 +1,12 @@
+pull_request_rules:
+  - name: Automatic merge if only hosts_all-in-one.txt is changed
+    conditions:
+      - author=KEINOS
+      - base=main
+      - title~=^Changes
+      - and:
+        - files=hosts_all-in-one.txt
+      - "#files=1"
+    actions:
+      merge:
+        method: merge
