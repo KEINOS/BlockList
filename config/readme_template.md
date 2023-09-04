@@ -2,6 +2,9 @@
 <!-- DO NOT EDIT; This is a auto generated file -->
 # Block List KEINOS
 
+| Address: | https://raw.githubusercontent.com/KEINOS/BlockList/main/hosts_all-in-one.txt |
+| :--: | :-- |
+
 - This repository provides two `hosts` files for [DNS Sinkhole](https://en.wikipedia.org/wiki/DNS_sinkhole) applications such as [Pi-hole](https://pi-hole.net/) and [Blocky](https://0xerr0r.github.io/blocky/). Helps block children and grandparents from accessing suspicious or malicious domains.
 - Este repositorio proporciona dos archivos de `hosts` para aplicaciones [DNS Sinkhole](https://es.wikipedia.org/wiki/Sumidero_de_DNS) como [Pi-hole](https://pi-hole.net/) y [Blocky](https://0xerr0r.github.io/blocky/). Ayuda a bloquear el acceso de niños y abuelos a dominios sospechosos o maliciosos.
 - このリポジトリは、[Pi-hole](https://pi-hole.net/) や [Blocky](https://0xerr0r.github.io/blocky/) などの [DNS Sinkhole](https://en.wikipedia.org/wiki/DNS_sinkhole) アプリケーションのための `hosts` ファイルを 2 つ提供しています。子供や祖父母が不審なドメインや悪意のあるドメインにアクセスするのをブロックするのに役立ちます。
