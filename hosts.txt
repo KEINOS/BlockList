@@ -85,6 +85,7 @@
 0.0.0.0 www.ezklean.icu
 0.0.0.0 fc6207.cuenote.jp
 0.0.0.0 www2.amazon.co.jp.eitu39dkhir.asios16.shop
+0.0.0.0 docomokouza.jp
 
 # =============================================================================
 #  Merged collection of hosts
