@@ -30,7 +30,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Update go.mod and run tests
+      - name: Update hosts file (API resource heavy)
         run: |
           set -eu
           docker compose run update
