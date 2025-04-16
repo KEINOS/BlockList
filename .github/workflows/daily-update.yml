@@ -1,10 +1,7 @@
 # =============================================================================
-#  Weekly Module Update
+#  Daily Update
 # =============================================================================
-# This workflow runs weekly to update and test the latest `go.mod` version.
-#
-# If all the tests succeeds to run in all Go versions, it will create a new PR
-# of the `go.mod` and `go.sum`.
+# This workflow runs daily to update the hosts file.
 #
 # NOTE:
 # You need to set the `PERSONAL_ACCESS_TOKEN` environment variable in the repo's
@@ -13,7 +10,7 @@
 #     https://github.com/settings/tokens
 #     * You need add the "repo" scope to the token but no more.
 # =============================================================================
-name: Weekly Update
+name: Daily Update
 
 on:
   workflow_dispatch:
