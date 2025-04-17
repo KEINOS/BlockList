@@ -14,10 +14,12 @@
        - これは、私たち**独自のブロックリスト**です。ドメインは、[ハニーポット](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8B%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88)として設定されたドメインに送信されてきたスパムメールから手動で抽出したものです。
 
 2. [hosts_all-in-one.txt](https://raw.githubusercontent.com/KEINOS/BlockList/main/hosts_all-in-one.txt)
+
     | Address: | `https://raw.githubusercontent.com/KEINOS/BlockList/main/hosts_all-in-one.txt` |
     | :--: | :-- |
 
     - License: [Multilicense](https://github.com/KEINOS/BlockList/#Licenses-of-unified-hosts-file)
+    - Update: ![GitHub last commit](https://img.shields.io/github/last-commit/KEINOS/BlockList)
     - ![950,000+](https://img.shields.io/badge/Registered%20Hosts-950%2C000%2B-blue "Over 919,650 hosts")
       - This is a file that combines **our `hosts` file with other curated `hosts` files**. It aims to reduce the load of update requests to GitHub by combining several blocklists into one.
       - Este es un archivo que combina **nuestro archivo de `hosts` con otros archivos de `hosts` curados**. Su objetivo es reducir la carga de solicitudes de actualización a GitHub combinando varias listas de bloqueo en una sola.
@@ -45,7 +47,8 @@ Licenses of the unified hosts file "`hosts_all-in-one.txt`" are as follows:
 | Host file source | Home page | Raw hosts | License | Issues | Description |
 | ---------------- | :-------: | :-------: | :-----: | :----: | ----------- |
 @SOURCEROWS@
-## Issue/PullRequest
+
+s## Issue/PullRequest
 
 - Branch: `main`
 - Feel free to PR or issues in 日本語 or Español instead of English.

@@ -1,4 +1,3 @@
-version: "3.9"
 services:
   # Update hosts file using StevenBlack's hosts docker image.
   # - Usage: docker compose run --rm update
