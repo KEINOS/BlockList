@@ -1,0 +1,91 @@
+upstreams:
+  init:
+    strategy: fast
+  groups:
+    default:
+      # Cloudflare
+      - 1.1.1.1
+      # Cloudflare DNS-over-TLS server (DoT)
+      - tcp-tls:one.one.one.one:853
+  strategy: parallel_best
+  timeout: 2s
+  userAgent: "custom UA"
+blocking:
+  denylists:
+    ads:
+      - https://raw.githubusercontent.com/KEINOS/BlockList/main/hosts_all-in-one.txt
+  allowlists:
+    ads:
+      - allowlist.txt
+      - |
+        # inline definition
+        *.github.com
+        *.githubusercontent.com
+  clientGroupsBlock:
+    default:
+      - ads
+  blockType: zeroIp
+  blockTTL: 1m
+  loading:
+    refreshPeriod: 24h
+    downloads:
+      timeout: 60s
+      attempts: 5
+      cooldown: 10s
+    concurrency: 16
+    strategy: failOnError
+    maxErrorsPerSource: 5
+caching:
+  minTime: 5m
+  maxTime: 30m
+  maxItemsCount: 0
+  prefetching: true
+  prefetchExpires: 2h
+  prefetchThreshold: 5
+  prefetchMaxItemsCount: 0
+  cacheTimeNegative: 30m
+clientLookup:
+  # local router. the DNS resolver to be used to perform reverse DNS lookup
+  upstream: 192.168.0.1
+  singleNameOrder:
+    - 2
+    - 1
+minTlsServeVersion: 1.3
+bootstrapDns:
+  - tcp+udp:1.1.1.1
+  - https://1.1.1.1/dns-query
+filtering:
+  queryTypes:
+    - AAAA
+fqdnOnly:
+  enable: true
+hostsFile:
+  sources:
+    - /etc/hosts
+  hostsTTL: 30m
+  filterLoopback: true
+  loading:
+    refreshPeriod: 24h
+    downloads:
+      timeout: 60s
+      attempts: 5
+      cooldown: 10s
+    concurrency: 16
+    strategy: failOnError
+    maxErrorsPerSource: 5
+ports:
+  dns: 53
+  tls: 853
+  http: 4000
+log:
+  level: info
+  format: text
+  timestamp: true
+  privacy: false
+ede:
+  enable: true
+specialUseDomains:
+  rfc6762-appendixG: true
+ecs:
+  useAsClient: true
+  forward: true

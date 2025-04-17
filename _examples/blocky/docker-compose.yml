@@ -1,0 +1,18 @@
+services:
+  blocky:
+    image: spx01/blocky
+    container_name: blocky
+    hostname: blocky
+    ports:
+      - "53:53/tcp"
+      - "53:53/udp"
+      - "4000:4000/tcp"
+    environment:
+      - TZ=Asia/Tokyo # Change the timezone if needed
+    restart: unless-stopped
+    volumes:
+      # Synchronize the log timestamp with host
+      - /etc/localtime:/etc/localtime:ro
+      # config file
+      - ./config.yml:/app/config.yml
+      - ./allowlist.txt:/app/allowlist.txt

@@ -1,0 +1,28 @@
+# ================
+#  deepl
+# ================
+*.deepl.com
+
+# ================
+#  google
+# ================
+*.google.com
+
+# ================
+#  apple
+# ================
+*.apple.com
+
+# ================
+#  adobe
+# ================
+*.adobe.com
+
+# ================
+#  microsoft
+# ================
+# required for VSCode
+default.exp-tas.com
+# required for Microsoft365 browser access
+*.microsoft.com
+*.azure.com
