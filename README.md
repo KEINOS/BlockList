@@ -14,10 +14,12 @@
        - これは、私たち**独自のブロックリスト**です。ドメインは、[ハニーポット](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8B%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88)として設定されたドメインに送信されてきたスパムメールから手動で抽出したものです。
 
 2. [hosts_all-in-one.txt](https://raw.githubusercontent.com/KEINOS/BlockList/main/hosts_all-in-one.txt)
+
     | Address: | `https://raw.githubusercontent.com/KEINOS/BlockList/main/hosts_all-in-one.txt` |
     | :--: | :-- |
 
     - License: [Multilicense](https://github.com/KEINOS/BlockList/#Licenses-of-unified-hosts-file)
+    - Update: ![GitHub last commit](https://img.shields.io/github/last-commit/KEINOS/BlockList)
     - ![950,000+](https://img.shields.io/badge/Registered%20Hosts-950%2C000%2B-blue "Over 919,650 hosts")
       - This is a file that combines **our `hosts` file with other curated `hosts` files**. It aims to reduce the load of update requests to GitHub by combining several blocklists into one.
       - Este es un archivo que combina **nuestro archivo de `hosts` con otros archivos de `hosts` curados**. Su objetivo es reducir la carga de solicitudes de actualización a GitHub combinando varias listas de bloqueo en una sola.
@@ -93,7 +95,8 @@ Sinfonietta's snuff-site blocking hosts file |[link](https://github.com/Sinfonie
 Tiuxo hostlist - pornography |[link](https://github.com/tiuxo/hosts) | [raw](https://raw.githubusercontent.com/tiuxo/hosts/master/porn) | CC BY 4.0 | [issues](https://github.com/tiuxo/hosts/issues)| Categorized hosts files for DNS based content blocking
 Sinfonietta's social media blocking hosts file |[link](https://github.com/Sinfonietta/hostfiles) | [raw](https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts) | MIT | [issues](https://github.com/Sinfonietta/hostfiles/issues)| A collection of category-specific host files.
 
-## Issue/PullRequest
+
+s## Issue/PullRequest
 
 - Branch: `main`
 - Feel free to PR or issues in 日本語 or Español instead of English.
