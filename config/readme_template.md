@@ -24,8 +24,9 @@
       - This is a file that combines **our `hosts` file with other curated `hosts` files**. It aims to reduce the load of update requests to GitHub by combining several blocklists into one.
       - Este es un archivo que combina **nuestro archivo de `hosts` con otros archivos de `hosts` curados**. Su objetivo es reducir la carga de solicitudes de actualización a GitHub combinando varias listas de bloqueo en una sola.
       - これは、**私たちの `hosts` ファイルと他の[キュレーション](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC#%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC)された `hosts` ファイルを結合したファイル**です。複数のブロックリストをひとつにまとめることで、GitHub への更新リクエストの負荷を軽減することを目的としています。
+    - [Example Usage](https://github.com/KEINOS/BlockList/tree/main/_examples/blocky)
 
-> __Note__:
+> [!NOTE]
 >
 > - This file is for people who "know what they are doing". All hosts/domains were researched by volunteers in their spare time and many may be missing. **Use this file wisely and without total dependence on it**.
 > - Este archivo es para personas que "saben lo que están haciendo". Todos los hosts/dominios fueron investigados por voluntarios en su tiempo libre y puede que falten muchos. **Utilize este archivo con prudencia y sin depender totalmente de él**.
@@ -48,7 +49,7 @@ Licenses of the unified hosts file "`hosts_all-in-one.txt`" are as follows:
 | ---------------- | :-------: | :-------: | :-----: | :----: | ----------- |
 @SOURCEROWS@
 
-s## Issue/PullRequest
+## Issue/PullRequest
 
 - Branch: `main`
 - Feel free to PR or issues in 日本語 or Español instead of English.
